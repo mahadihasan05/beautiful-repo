@@ -11,3 +11,40 @@
  justify-content: center;
   gap:20px ;
   }
+   .row-three{
+    display: flex;
+    justify-content: space-between;
+    
+   }
+ .row-three img {
+    width: 400px;
+    height: 320px;
+   }
+   .jebra{
+   display: grid;
+   grid-template-columns: repeat(2 , 1fr);
+ gap: 5px;
+   }
+    .jebra img{
+        width: 200px;
+        height: 150px;
+    }
+    .row-four{
+        display: flex;
+        justify-content: space-between;
+        
+       }
+       .row-four img {
+        width: 400px;
+        height: 320px;
+       }
+       .choroi{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 5px;
+      
+        }
+        .choroi img{
+            width: 200px;
+            height: 150px;
+        }
