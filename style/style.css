@@ -1,0 +1,13 @@
+ .row img{
+ width:100%;
+ height: 400px;
+ }
+  header{
+    text-align: center;
+    background-color: bisque;
+  }
+  .row-two{
+    display: flex;
+ justify-content: center;
+  gap:20px ;
+  }
